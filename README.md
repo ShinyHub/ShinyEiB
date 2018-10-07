@@ -10,8 +10,8 @@ Repository of the `Shiny Workshop` material for the CoP  `Bioinformatics, Biomet
 
 ## Location and Dates
 
-- Location: The workshop is held in Amsterdam from Septemeber 24-29th.
-- Date: from 24-29th.
+- Location: The workshop is located in Amsterdam (Steigenberger Hotel)
+- Date: Septemeber 24-29th.
 
 ## Organization
 
@@ -19,7 +19,7 @@ This workshop is organized by the `Excellence in Breeding Platform (EiB)` (http:
 
 ## Training
 
-Omar Benites Alfaro [o.benites@cgiar.org], [obacc07@gmail.com] and Ivan Perez Masias [i.perez@cgiar.org], [ivanpe834@gmail.com] work at the `International Potato Center (CIP)`, in the `Research Informatic Unit (RIU)`. From 2014 they have been working with Shiny applications in development and production contexts. 
+Trainners, Omar Benites Alfaro ([o.benites@cgiar.org], [obacc07@gmail.com]) and Ivan Perez Masias ([i.perez@cgiar.org], [ivanpe834@gmail.com]), work at the `International Potato Center (CIP)`, in the `Research Informatic Unit (RIU)`. From 2014 they have been working with Shiny applications in development and production contexts. 
 
 This trainings follow the next guidelines:  
 
